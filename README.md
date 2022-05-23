@@ -1,4 +1,4 @@
-Este script é uma CLI responsável por gerar de forma rápida várias imagens de dimensões especificadas de uma data imagem.
+Este script é uma CLI responsável por gerar de forma rápida várias imagens de dimensões especificadas de uma dada imagem.
 
 Modo de uso
 Basta digitar em um terminal ou prompt de comando para gerar as imagens
